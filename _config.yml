@@ -1,1 +1,5 @@
 theme: jekyll-theme-merlot
+name: Jimmuwu9's Pages
+url: "https://jimmywu9.github.io"
+relative_permalink: true
+future: true
